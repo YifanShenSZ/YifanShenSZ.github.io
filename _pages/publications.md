@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## 2020
-{% include figure image_path="/assets/images/publications/2020jpcl.gif" caption="[5] **Y. Shen**, D. R. Yarkony. [Compact Bases for Vibronic Coupling in Spectral Simulations: The Photoelectron Spectrum of Cyclopentoxide in the Full 39 Internal Modes](https://doi.org/10.1021/acs.jpclett.0c02199). *Journal of Physical Chemistry A*"%}
+{% include figure image_path="/assets/images/publications/2020jpcl.gif" caption="[5] **Y. Shen**, D. R. Yarkony. [Compact Bases for Vibronic Coupling in Spectral Simulations: The Photoelectron Spectrum of Cyclopentoxide in the Full 39 Internal Modes](https://doi.org/10.1021/acs.jpclett.0c02199). *Journal of Physical Chemistry Letters*"%}
 
 {% include figure image_path="/assets/images/publications/2020jctc.png" caption="[4] K. Shi, **Y. Shen**, E. E. Santiso, K. E. Gubbins. [Microscopic Pressure Tensor in Cylindrical Geometry: Pressure of Water in a Carbon Nanotube](https://doi.org/10.1021/acs.jctc.0c00607). *Journal of Chemical Theory and Computation*"%}
 
