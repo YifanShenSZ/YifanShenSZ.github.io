@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://github.com/KaihangShi/kaihangshi.github.io/tree/master/assets/images/flavicon/android-chrome-192x192.png",
+            "src": "https://github.com/YifanShenSZ/YifanShenSZ.github.io/blob/main/assets/images/flavicon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://github.com/KaihangShi/kaihangshi.github.io/tree/master/assets/images/flavicon/android-chrome-384x384.png",
+            "src": "https://github.com/YifanShenSZ/YifanShenSZ.github.io/blob/main/assets/images/flavicon/android-chrome-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         }
