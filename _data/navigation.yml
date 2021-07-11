@@ -4,12 +4,14 @@ main:
     url: /news/
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Publications"
     url: /publications/
   - title: "Codes"
     url: /codes/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Gallery"
+    url: /gallery/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

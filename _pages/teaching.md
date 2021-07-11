@@ -2,20 +2,22 @@
 layout: single
 title: "Teaching Experience"
 permalink: /teaching/
-date: 2021-6-15
+date: 2021-7-11
 categories: pages
 ---
-## Johns Hopkins University
-**Teaching Assistant**, AS.030.102.01 Introductory Chemistry II, 2020 Spring
+## 2020
+**Teaching Assistant**, AS.030.102.01 Introductory Chemistry II, Spring, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.106.01 Introductory Chemistry Laboratory II, 2020 Spring
+**Teaching Assistant**, AS.030.106.01 Introductory Chemistry Laboratory II, Spring, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.101.01 Introductory Chemistry I, 2019 Fall
+## 2019
+**Teaching Assistant**, AS.030.101.01 Introductory Chemistry I, Fall, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.105.01 Introductory Chemistry Laboratory I, 2019 Fall
+**Teaching Assistant**, AS.030.105.01 Introductory Chemistry Laboratory I, Fall, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.102.01 Introductory Chemistry II, 2019 Spring
+**Teaching Assistant**, AS.030.102.01 Introductory Chemistry II, Spring, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.106.01 Introductory Chemistry Laboratory II, 2019 Spring
+**Teaching Assistant**, AS.030.106.01 Introductory Chemistry Laboratory II, Spring, Johns Hopkins University
 
-**Teaching Assistant**, AS.030.305.01 Physical Chemistry Instrumentation Laboratory I, 2018 Fall
+## 2018
+**Teaching Assistant**, AS.030.305.01 Physical Chemistry Instrumentation Laboratory I, Fall, Johns Hopkins University
