@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "YS"
 title_separator          : "-"
 name                     : "Yifan Shen"
-description              : "Theoretical and Computational Chemistry Ph. D."
+description              : "Quantum Chemistry Ph. D."
 url                      : "https://YifanShenSZ.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YifanShenSZ/YifanShenSZ.github.io"
@@ -100,8 +100,10 @@ author:
   name             : "Yifan Shen"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Ph. D. candidate in Yarkony group, Johns Hopkins University"
-  location         : "Maryland, MD"
-  email            : #"yifanshensz@jhu.edu"
+  location         : #"Maryland, MD"
+  email            : "yifanshensz@jhu.edu"
+  github           : "YifanShenSZ"
+  orcid            : "https://orcid.org/0000-0003-0590-444X"
   googlescholar    : "https://scholar.google.com/citations?user=-Lpl3N4AAAAJ&hl=en-US"
   researchgate     : #"https://www.researchgate.net/profile/Kaihang_Shi"
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,7 +113,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YifanShenSZ"
   gitlab           :
   google_plus      :
   keybase          :

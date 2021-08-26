@@ -16,6 +16,6 @@ toc_icon: "columns"
 ## Libraries
 [Torch-Chemistry](https://github.com/YifanShenSZ/Torch-Chemistry), a c++ library for chemical routines based on libtorch
 
-[Foptim](https://github.com/YifanShenSZ/Foptim), a FORTRAN nonlinear optimization library with c++ frontend
+[Foptim](https://github.com/YifanShenSZ/Foptim), a fortran nonlinear optimization library with c++ frontend
 
-[Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library), a FORTRAN library for mathematical & chemical routines with c++ & python frontend
+[Fortran-Library](https://github.com/YifanShenSZ/Fortran-Library), a fortran library for mathematical & chemical routines with c++ & python frontend
