@@ -100,27 +100,27 @@ author:
   name             : "Yifan Shen"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Ph. D. candidate in Yarkony group, Johns Hopkins University"
+  home             : # null (default), "absolute or relative url to link to author home"
   location         : #"Maryland, MD"
   email            : "yifanshensz@jhu.edu"
-  github           : "YifanShenSZ"
-  orcid            : "https://orcid.org/0000-0003-0590-444X"
   googlescholar    : "https://scholar.google.com/citations?user=-Lpl3N4AAAAJ&hl=en-US"
   researchgate     : #"https://www.researchgate.net/profile/Kaihang_Shi"
-  home             : # null (default), "absolute or relative url to link to author home"
+  orcid            : "0000-0003-0590-444X"
+  github           : "YifanShenSZ"
+  gitlab           :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  linkedin         : "yifan-shen-b5b516187"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : "shen_sz"

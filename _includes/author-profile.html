@@ -48,6 +48,15 @@
         </li>
       {% endif %}
 
+      {% if author.email %}
+        <li>
+          <a href="mailto:{{ author.email }}">
+            <meta itemprop="email" content="{{ author.email }}" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
@@ -56,11 +65,46 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
 
-      {% if author.email %}
+      {% if author.orcid %}
+        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="fas fa-fw"></i> ORCID</a></li>
+      {% endif %}
+
+      {% if author.github %}
         <li>
-          <a href="mailto:{{ author.email }}">
-            <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.gitlab %}
+        <li>
+          <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.stackoverflow %}
+        <li>
+          <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stack Overflow
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.linkedin %}
+        <li>
+          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.xing %}
+        <li>
+          <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING
           </a>
         </li>
       {% endif %}
@@ -97,22 +141,6 @@
         </li>
       {% endif %}
 
-      {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.xing %}
-        <li>
-          <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.instagram %}
         <li>
           <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
@@ -133,30 +161,6 @@
         <li>
           <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
             <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.gitlab %}
-        <li>
-          <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.stackoverflow %}
-        <li>
-          <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stack Overflow
           </a>
         </li>
       {% endif %}
