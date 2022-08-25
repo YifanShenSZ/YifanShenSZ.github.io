@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## 2021
-{% include figure image_path="/assets/images/publications/2021jpca.gif" caption="[6] **Y. Shen**, D. R. Yarkony. [Unified Description of the Jahn-Teller Effect in Molecules with Only Cs Symmetry: Cyclohexoxy in Its Full 48-Dimensional Internal Coordinates](https://doi.org/10.1021/acs.jpca.1c09123). *Journal of Physical Chemistry A*"%}
+{% include figure image_path="/assets/images/publications/2021jpca.png" caption="[6] **Y. Shen**, D. R. Yarkony. [Unified Description of the Jahn-Teller Effect in Molecules with Only Cs Symmetry: Cyclohexoxy in Its Full 48-Dimensional Internal Coordinates](https://doi.org/10.1021/acs.jpca.1c09123). *Journal of Physical Chemistry A*"%}
 
 ## 2020
 {% include figure image_path="/assets/images/publications/2020jpcl.gif" caption="[5] **Y. Shen**, D. R. Yarkony. [Compact Bases for Vibronic Coupling in Spectral Simulations: The Photoelectron Spectrum of Cyclopentoxide in the Full 39 Internal Modes](https://doi.org/10.1021/acs.jpclett.0c02199). *Journal of Physical Chemistry Letters*"%}
