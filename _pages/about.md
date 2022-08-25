@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph. D. candidate in Prof. David Yarkony's group at Johns Hopkins University. I obtained my B. S. in chemistry and physics minor (2018) from Zhejiang University.
+I was a software engineer machine learning intern at Meta Platforms Inc. during summber 2022. I worked on PyTorch nested tensor operation support, see [nested tensor tutorial](https://pytorch.org/tutorials/prototype/nestedtensor).
 
-My research is developing nonadiabatic dynamics theory and software to understand and predict photochemistry in molecules and materials, aiming at a more sustainable future. Quantum mechanics, machine learning and programming make up my skill set in accomplishing my research projects.
+I am a quantum chemistry Ph. D. candidate at Johns Hopkins University. I obtained my B. S. in chemistry and physics minor from Zhejiang University.
 
-I am looking for **summer 2022 internship** as machine learning engineer, software development engineer, or data scientist, etc. I am looking forward to bringing solutions and ideas to life while working on cutting-edge technology.
+My research focuses on empowering quantum chemistry with machine learning. I am enthusiastic in developing machine learning infrastructure, machine learning model, quantum chemical theory, etc.
