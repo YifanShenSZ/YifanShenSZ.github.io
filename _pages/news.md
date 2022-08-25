@@ -2,12 +2,23 @@
 layout: single
 title: "News"
 permalink: /news/
-date: 2021-6-15
+date: 2022-8-25
 categories: pages
 toc: true
 toc_label: "Year"
 toc_icon: "columns"
 ---
+## 2022
+### May
+- I started my software engineer machine learning internship at Meta Platforms Inc.
+
+### March
+- I presented a poster during the Johns Hopkins Chemistry Visitation Weekend
+
+## 2021
+### December
+- My 1st-and-corresponding-author paper, [Unified Description of the Jahn-Teller Effect in Molecules with Only Cs Symmetry: Cyclohexoxy in Its Full 48-Dimensional Internal Coordinates](https://doi.org/10.1021/acs.jpca.1c09123), has been published in *J. Phys. Chem. A*
+
 ## 2020
 ### October
 - I gave a talk at Johns Hopkins Chemistry Literature Seminar
