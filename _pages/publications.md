@@ -3,12 +3,15 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals and books."
 permalink: /publications/
-date: 2021-6-15
+date: 2022-8-25
 categories: pages
 toc: true
 toc_label: "Category"
 toc_icon: "columns"
 ---
+## 2022
+{% include figure image_path="/assets/images/publications/generic-pytorch-logo.png" caption="[7] [nested tensor tutorial](https://pytorch.org/tutorials/prototype/nestedtensor). *PyTorch tutorial*"%}
+
 ## 2021
 {% include figure image_path="/assets/images/publications/2021jpca.png" caption="[6] **Y. Shen**, D. R. Yarkony. [Unified Description of the Jahn-Teller Effect in Molecules with Only Cs Symmetry: Cyclohexoxy in Its Full 48-Dimensional Internal Coordinates](https://doi.org/10.1021/acs.jpca.1c09123). *Journal of Physical Chemistry A*"%}
 

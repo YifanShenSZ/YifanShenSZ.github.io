@@ -9,11 +9,14 @@ toc_label: "Year"
 toc_icon: "columns"
 ---
 ## 2022
+### August
+- I finished my internship at Meta Platforms Inc. See my work at [nested tensor tutorial](https://pytorch.org/tutorials/prototype/nestedtensor)
+
 ### May
 - I started my software engineer machine learning internship at Meta Platforms Inc.
 
 ### March
-- I presented a poster during the Johns Hopkins Chemistry Visitation Weekend
+- I presented a poster during the Johns Hopkins chemistry visitation weekend
 
 ## 2021
 ### December
@@ -36,14 +39,14 @@ toc_icon: "columns"
 - My 1st-and-corresponding-author paper, [Construction of Quasi-diabatic Hamiltonians That Accurately Represent ab Initio Determined Adiabatic Electronic States Coupled by Conical Intersections for Systems on the Order of 15 Atoms. Application to Cyclopentoxide Photoelectron Detachment in the Full 39 Degrees of Freedom](https://doi.org/10.1021/acs.jpca.0c02763), has been published in *J. Phys. Chem. A*
 
 ### March
-- I presented a poster during the Johns Hopkins Chemistry Visitation Weekend
+- I presented a poster during the Johns Hopkins chemistry visitation weekend
 
 ## 2018
 ### December
 - My 1st-author paper, [Semiclassical Moyal dynamics](https://doi.org/10.1063/1.5067005), has been published in *J. Chem. Phys.*
 
 ### September
-- I joined Prof. David Yarkony's group at Johns Hopkins University as a Ph. D. student
+- I joined Johns Hopkins University as a Ph. D. student
 
 ### July
 - I obtained my B. S. in chemistry and physics minor from Zhejiang University
