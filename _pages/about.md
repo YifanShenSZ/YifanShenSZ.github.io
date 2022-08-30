@@ -12,4 +12,4 @@ I was a software engineer machine learning intern at Meta Platforms Inc. during 
 
 I am a quantum chemistry Ph. D. candidate at Johns Hopkins University. I obtained my B. S. in chemistry and physics minor from Zhejiang University.
 
-My research focuses on empowering quantum chemistry with machine learning. I am enthusiastic in developing machine learning infrastructure, machine learning model, quantum chemical theory, etc.
+I am actively searching for a machine learning engineer or software engineer role. Any start time after November 2022 will work for me.
