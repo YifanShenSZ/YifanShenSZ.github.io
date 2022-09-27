@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Yifan Shen"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Ph. D. candidate in Yarkony group, Johns Hopkins University"
+  bio              : "PhD candidate at Johns Hopkins University"
   home             : # null (default), "absolute or relative url to link to author home"
   location         : #"Maryland, MD"
   email            : "yifanshensz@jhu.edu"
