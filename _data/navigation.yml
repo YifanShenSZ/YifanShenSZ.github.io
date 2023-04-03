@@ -2,14 +2,14 @@
 main:
   - title: "News"
     url: /news/
+  - title: "CV"
+    url: /assets/docs/CV.pdf
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Codes"
     url: /codes/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Gallery"
     url: /gallery/
   # - title: "Sample Collections"
